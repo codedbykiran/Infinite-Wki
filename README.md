@@ -28,7 +28,7 @@ Explore Wikipedia articles in a fun and interactive way! Click on words to disco
 
 ## Project Link
 
-[Infinite Wikipedia Word Explorer](https://codedbykiran.github.io/Infinite-Wikipedia-WordExplorer/)
+[Infinite Wikipedia Word Explorer](https://codedbykiran.github.io/Infinite-Wki/)
 
 ## Author
 
